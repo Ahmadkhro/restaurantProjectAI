@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">restaurantProjectAI</string>
+    <string name="log_in">Log In</string>
+
+    <string-array name="type">
+
+        <item>Customer</item>
+
+        <item>Receptionist</item>
+
+
+    </string-array>
+</resources>
